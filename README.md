@@ -1,24 +1,3 @@
-# README
+This is the backend portion used to serve a REST API for Launch Launch Library Front-end.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The app has been deployed to heroku, https://launch-api-backend.herokuapp.com/missions
